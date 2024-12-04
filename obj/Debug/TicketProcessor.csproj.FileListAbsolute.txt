@@ -1,0 +1,7 @@
+C:\Users\bahauddin.fahad\source\repos\TicketProcessor\TicketProcessor\bin\Debug\TicketProcessor.exe.config
+C:\Users\bahauddin.fahad\source\repos\TicketProcessor\TicketProcessor\bin\Debug\TicketProcessor.exe
+C:\Users\bahauddin.fahad\source\repos\TicketProcessor\TicketProcessor\bin\Debug\TicketProcessor.pdb
+C:\Users\bahauddin.fahad\source\repos\TicketProcessor\TicketProcessor\obj\Debug\TicketProcessor.csproj.AssemblyReference.cache
+C:\Users\bahauddin.fahad\source\repos\TicketProcessor\TicketProcessor\obj\Debug\TicketProcessor.csproj.CoreCompileInputs.cache
+C:\Users\bahauddin.fahad\source\repos\TicketProcessor\TicketProcessor\obj\Debug\TicketProcessor.exe
+C:\Users\bahauddin.fahad\source\repos\TicketProcessor\TicketProcessor\obj\Debug\TicketProcessor.pdb
